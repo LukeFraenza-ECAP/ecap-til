@@ -1,4 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: EnergyCAP TIL
+params:
+  subtitle: Today I Learned at EnergyCAP
 theme: ananke
